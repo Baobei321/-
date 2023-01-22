@@ -17,3 +17,5 @@
 - 
 
 ###  同步fork更新
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caixin&bg_color=0d9fe7&color=f26ee9&line=e010d2&point=edd326&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
